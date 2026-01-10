@@ -756,4 +756,7 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
+# Project files
+documents/
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,visualstudio,visualstudiocode,phpstorm,netbeans,nova,composer,node,git
